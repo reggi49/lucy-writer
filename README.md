@@ -82,4 +82,4 @@ Tone: Menghindari kata-kata "AI-ism" seperti "In this digital era" atau "Crucial
 Security: Scraper menggunakan header Chrome/macOS modern. Parsing dilakukan secara aman via JSDOM tanpa mengeksekusi JavaScript dari sumber.
 
 📄 Lisensi
-Distribusi di bawah lisensi MIT. Dibuat oleh Muhamad Reggi.
+Distribusi di bawah lisensi MIT. Dibuat oleh Reggi49.
