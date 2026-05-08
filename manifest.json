@@ -1,0 +1,18 @@
+{
+  "name": "delegate_to_local_writer",
+  "description": "Tugaskan AI Lokal (DeepSeek 14B) untuk merangkai artikel dari data scraping di folder temp. Gunakan tool ini untuk pembuatan artikel panjang agar hemat biaya token.",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "topic": {
+        "type": "string",
+        "description": "Topik atau judul sementara artikel."
+      },
+      "category": {
+        "type": "string",
+        "description": "Kategori untuk blog (misal: Otomotif, Tech, News)."
+      }
+    },
+    "required": ["topic", "category"]
+  }
+}
