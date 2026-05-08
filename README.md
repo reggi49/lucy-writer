@@ -1,5 +1,5 @@
 # lucy-writer
-Fully autonomous tech-blog writing agent. Scrapes web references, generates SEO-friendly articles using a multi-layer LLM failover (Gemini/Ollama), creates dynamic branded thumbnails via Canvas &amp; AI, and publishes automatically via API.
+Fully autonomous tech-blog writing agent for openclaw. Scrapes web references, generates SEO-friendly articles using a multi-layer LLM failover (Gemini/Ollama), creates dynamic branded thumbnails via Canvas &amp; AI, and publishes automatically via API.
 
 🤖 Lucy Writer (v2.2.0)
 Lucy Writer adalah alat otomasi penulisan blog teknologi yang sepenuhnya otonom. Dirancang untuk efisiensi tinggi, Lucy mengekstrak konten dari URL referensi, menyintesisnya menjadi artikel SEO yang natural menggunakan sistem triple-layer failover, menghasilkan thumbnail dinamis dengan desain flat, dan langsung mempublikasikannya ke CMS Anda melalui API.
